@@ -1,4 +1,4 @@
-File Integrity Monitoring Script
+*File Integrity Monitoring Script*
 This Python script provides tools to efficiently check the integrity of files within a directory by comparing their hashes against a known list of valid hashes.
 
 Features
